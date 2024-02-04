@@ -2,7 +2,7 @@
 Hi , mein Name ist Henrik und ich bin Fan von Coding, Lesen, Sport.
 Danke für deinen Besuch!
 
-[!["C:\Users\Henrik\Pictures\Download He-ManRevolution.jpg"][2]][1]
+[![C:\Users\Henrik\Pictures\Download He-ManRevolution.jpg][2]][1]
 
 - list1
 - list2
