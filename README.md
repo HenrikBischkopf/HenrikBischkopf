@@ -2,7 +2,8 @@
 Hi , mein Name ist Henrik und ich bin Fan von Coding, Lesen, Sport.
 Danke für deinen Besuch!
 
-[![C:\Users\Henrik\Pictures\Download He-ManRevolution.jpg][2]][1]
+
+![[Download He-ManRevolution](https://github.com/HenrikBischkopf/HenrikBischkopf/assets/158016538/7bca6bc9-944e-41ee-a6f4-71b91e782807)][1]
 
 - list1
 - list2
@@ -12,4 +13,4 @@ Danke für deinen Besuch!
 
 <!-- Reference -->
 [1]: https://www.netflix.com/watch/81588211?trackId=250334512
-[2]: ![He-man with Orco](C:\Users\Henrik\Pictures\Download He-ManRevolution.jpg)
+[2]: ![Download He-ManRevolution](https://github.com/HenrikBischkopf/HenrikBischkopf/assets/158016538/7bca6bc9-944e-41ee-a6f4-71b91e782807)
