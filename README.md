@@ -10,22 +10,22 @@ Let's master the Codeverse together!
 
 My capstone project included this teck stack:
 
--li Next.js
-MongoDB
-Cloudinary
-NextAuth
-React
-useSWR
-React Hook Form
-MongoDB Atlas
-Mongoose
-Node.js
-Styled Components
-Vercel
-Git
-GitHub
-Agile Methods
-Toastify
+- Next.js
+- MongoDB
+- Cloudinary
+- NextAuth
+- React
+- useSWR
+- React Hook Form
+- MongoDB Atlas
+- Mongoose
+- Node.js
+- Styled Components
+- Vercel
+- Git
+- GitHub
+- Agile Methods
+- Toastify
 
 <!-- Markdown -->
 
