@@ -9,7 +9,8 @@ Let's master the Codeverse together!
 [![Download He-ManRevolution](https://github.com/HenrikBischkopf/HenrikBischkopf/assets/158016538/7bca6bc9-944e-41ee-a6f4-71b91e782807)][1]
 
 My capstone project included this teck stack:
-Next.js
+
+-li Next.js
 MongoDB
 Cloudinary
 NextAuth
