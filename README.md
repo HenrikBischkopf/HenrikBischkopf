@@ -3,6 +3,8 @@
 I am Henrik and just finished my Webdevelopment Bootcamp at NeueFische.
 
 Interested in E-comm,product design,Agile Methods,languages and cultures abroad.Plenty of leadership/PR experience & skills.Outstanding communication skill,wish to climb the ladder in webdevelopment or projectmanagement with hard work and dedication.
+I am fluent in German, English, Dutch and French.
+At the moment i am working on my web developer skills; doing curses on Codecademy and TryHackMe.
 
 Let's master the Codeverse together!
 
