@@ -14,7 +14,7 @@ Let's master the Codeverse together!
 
 The Stranger Plants project was my capstone project in my NeueFische bootcamp. Here is a short summary, you can find the link further below:
 
-Stranger Plants
+## Stranger Plants
 
 An app for plant enthusiasts that supports you in your regular caretaking tasks. You can add, delete, and edit plants, manage images (including CRUD operations) and organize them into a gallery. The app also includes custom reminder functions for watering and fertilizing, along with a custom coded calendar to display all tasks on the correct dates.
 
