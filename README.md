@@ -12,6 +12,9 @@ Let's master the Codeverse together!
 
 [![Download He-ManRevolution](https://github.com/HenrikBischkopf/HenrikBischkopf/assets/158016538/7bca6bc9-944e-41ee-a6f4-71b91e782807)][1]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikBischkopf&layout=compact)](https://github.com/HenrikBischkopf/github-readme-stats)
+
+
 The Stranger Plants project was my capstone project in my NeueFische bootcamp. Here is a short summary, you can find the link here https://github.com/Fabi911/Capstone_Plant_Care further below:
 
 ## Stranger Plants
